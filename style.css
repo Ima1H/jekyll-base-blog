@@ -17,3 +17,17 @@ section {
    text-transform: uppercase;
    background-color: lightgray;
 }
+
+/* Background-image Styles */
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+.square {
+    padding-bottom: 100%
+}
+
+.square {
+    padding-bottom: 60%
+}
